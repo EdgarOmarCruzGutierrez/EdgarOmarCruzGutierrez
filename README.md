@@ -8,9 +8,7 @@ them into analyses people can act on. Currently building toward clinical statist
 
 
 **Featured work**
-integration) —
-- [Pharmacovigilance Data Integration](https://github.com/EdgarOmarCruzGutierrez/pharmacovigilance-data-integration)
-SIDER + PubChem, 152,759 drug-reaction pairs, TDQM data-quality pipeline, SQL layer.
+- [Pharmacovigilance Data Integration](https://github.com/EdgarOmarCruzGutierrez/pharmacovigilance-data-integration) — SIDER + PubChem, 152,759 drug-reaction pairs, TDQM data-quality pipeline, SQL layer.
 
 
 **Stack:** Python · SQL/PostgreSQL · pandas · scikit-learn · RDKit · Power BI · Git
